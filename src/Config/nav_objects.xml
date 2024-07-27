@@ -1,0 +1,5 @@
+<no-compass>
+    <set xpath="/nav_object_classes//compass_settings/property[@name='color']/@value">
+        255,255,255,0
+    </set>
+</no-compass>
