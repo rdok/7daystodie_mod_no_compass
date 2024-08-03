@@ -12,8 +12,16 @@
 - Install with [Vortex](https://www.nexusmods.com/about/vortex/).
 
 ## Features
-
 - Hide player icon & name on map
+
+## Recommended Mods
+> These mods have been manually verified for compatibility, though my gameplay.
+- [Dot Crosshair](https://www.nexusmods.com/7daystodie/mods/5640)
+- [Immersive Crosshair](https://www.nexusmods.com/7daystodie/mods/5601)
+- [Danzo No Crosshair 1.2.1](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=17443&nmm=1&game_id=1059)
+- [No Compass](https://www.nexusmods.com/7daystodie/mods/5528)
+- [No GPS](https://www.nexusmods.com/7daystodie/mods/5525)
+- [Quick Continue](https://www.nexusmods.com/7daystodie/mods/5631) Recommended if you test lots of mods.
  
 ### Modding Sources
 - [AGF - V1.0 - HUD PLUS](https://www.nexusmods.com/7daystodie/mods/870) for a mod template
