@@ -12,6 +12,7 @@
 
 ## Features
 - Hide player icon & name on map
+- Compatibility with Steel UI HUD; sort the no compass mod after it. See images for a showcase.
 
 ## Recommended Mods
 > These mods have been manually verified for compatibility, though my gameplay.
