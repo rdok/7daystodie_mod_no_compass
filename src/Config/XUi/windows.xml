@@ -1,5 +1,3 @@
 <no-compass>
-    <set xpath="/windows/window[@name='windowCompass']//*[@color]/@color">
-        255,255,255,0
-    </set>
+    <remove xpath="//window[@name='windowCompass']"/>
 </no-compass>
