@@ -1,3 +1,0 @@
-<no-compass>
-    <remove xpath="/xui/ruleset/window_group[@name='compass']/window[@name='windowCompass']"/>
-</no-compass>

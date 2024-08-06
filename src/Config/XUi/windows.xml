@@ -1,0 +1,5 @@
+<no-compass>
+    <remove xpath="/windows/window[@name='windowCompass']/*"/>
+    <remove xpath="//window[@name='windowLocation']/label[@name='location']" />
+    <remove xpath="//window[@name='windowLocation']//label[@name='gamestage']" />
+</no-compass>
