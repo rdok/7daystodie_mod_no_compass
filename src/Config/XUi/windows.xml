@@ -1,5 +1,9 @@
 <no-compass>
     <remove xpath="/windows/window[@name='windowCompass']/*"/>
-    <remove xpath="//window[@name='windowLocation']/label[@name='location']" />
-    <remove xpath="//window[@name='windowLocation']//label[@name='gamestage']" />
+
+    <!-- SteelUI  Compatibility Patch START -->
+    <remove xpath="//window[@name='windowLocation']/label[@name='location']"/>
+    <remove xpath="//window[@name='windowLocation']//label[@name='gamestage']"/>
+    <remove xpath="//grid[@name='compasslocation_difficulty']"/>
+    <!-- SteelUI  Compatibility Patch END-->
 </no-compass>
