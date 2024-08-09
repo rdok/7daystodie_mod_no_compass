@@ -1,0 +1,6 @@
+<no-compass-steel-ui>
+    <setattribute xpath="//window[@name='windowLocation']" name="visible">false</setattribute>
+    <setattribute xpath="//window[@name='windowLocation']" name="force_hide">true</setattribute>
+    <setattribute xpath="//grid[@name='compasslocation_difficulty']" name="visible">false</setattribute>
+    <setattribute xpath="//grid[@name='compasslocation_difficulty']" name="force_hide">true</setattribute>
+</no-compass-steel-ui>
