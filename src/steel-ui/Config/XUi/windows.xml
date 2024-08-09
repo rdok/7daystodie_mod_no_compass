@@ -1,6 +1,11 @@
 <no-compass-steel-ui>
-    <setattribute xpath="//window[@name='windowLocation']" name="visible">false</setattribute>
-    <setattribute xpath="//window[@name='windowLocation']" name="force_hide">true</setattribute>
+    <!-- Enemies POI -->
     <setattribute xpath="//grid[@name='compasslocation_difficulty']" name="visible">false</setattribute>
     <setattribute xpath="//grid[@name='compasslocation_difficulty']" name="force_hide">true</setattribute>
+
+    <setattribute xpath="//label[@name='gamestage']" name="visible">false</setattribute>
+    <setattribute xpath="//label[@name='gamestage']" name="force_hide">true</setattribute>
+
+    <setattribute xpath="//label[@name='location']" name="visible">false</setattribute>
+    <setattribute xpath="//label[@name='location']" name="force_hide">true</setattribute>
 </no-compass-steel-ui>

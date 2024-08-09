@@ -11,6 +11,15 @@
 - Install with [Vortex](https://www.nexusmods.com/about/vortex/).
 - Steel UI Compatibility: Install the corresponding optional file. Ensure both are placed after the Steel UI in the load order.
 
+## Changelog
+### 1.2.2 09-Aug-24
+feat: Use a better and safer approach to hiding the elements.
+fix: Extracted Steel UI compatibility to a separate mod, to eliminate XML warnings.
+### 1.0.1 SteelUICompatibility - 09-Aug-24
+feat: Use a better and safer approach to hiding the elements.
+feat: Hide enemies POI, game stage and location (they are all under the compass window)
+
+
 ## Features
 - Hide player icon & name on map
 - Hide quick way points.
