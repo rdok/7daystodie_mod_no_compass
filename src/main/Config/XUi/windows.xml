@@ -1,0 +1,4 @@
+<no-compass>
+    <setattribute xpath="//window[@name='windowCompass']" name="visible">false</setattribute>
+    <setattribute xpath="//window[@name='windowCompass']" name="force_hide">true</setattribute>
+</no-compass>

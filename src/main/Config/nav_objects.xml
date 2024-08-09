@@ -1,0 +1,7 @@
+<no-compass>
+    <setattribute xpath="//compass_settings" name="visible">false</setattribute>
+    <setattribute xpath="//compass_settings" name="force_hide">true</setattribute>
+
+    <setattribute xpath="//nav_object_class[@name='quick_waypoint']" name="visible">false</setattribute>
+    <setattribute xpath="//nav_object_class[@name='quick_waypoint']" name="force_hide">true</setattribute>
+</no-compass>
