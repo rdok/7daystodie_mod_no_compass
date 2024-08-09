@@ -1,8 +1,0 @@
-<no-compass>
-    <set xpath="/nav_object_classes//compass_settings/property[@name='sprite_name']/@value">
-        ''
-    </set>
-    <set xpath="/nav_object_classes/nav_object_class[@name='quick_waypoint']//compass_settings/property[@name='color']/@value">
-        255,255,255,0
-    </set>
-</no-compass>

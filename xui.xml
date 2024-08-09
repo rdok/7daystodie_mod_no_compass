@@ -1,6 +1,0 @@
-<no-compass>
-    <set xpath="/xui/ruleset/window_group[@name='compass']/window[@name='windowCompass']">false</set>
-<!--    <remove xpath="/xui/ruleset/window_group[@name='compass']/window[@name='windowCompass']"/>-->
-    <remove xpath="/windows/window/[@name='windowCompass']"/>
-
-</no-compass>
