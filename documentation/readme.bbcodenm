@@ -14,10 +14,14 @@ Hides the Compass HUD.
 [/list]
 [size=5]Changelog[/size]
 [size=4]1.2.2 09-Aug-24[/size]
-feat: Use a better and safer approach to hiding the elements. fix: Extracted Steel UI compatibility to a separate mod, to eliminate XML warnings.
+[list]
+[*] feat: Extracted Steel UI compatibility to a separate mod, to eliminate XML warnings.
+[*] fix: Use a better and safer approach to hiding the elements.[/list]
 [size=4]1.0.1 SteelUICompatibility - 09-Aug-24[/size]
-feat: Use a better and safer approach to hiding the elements. feat: Hide enemies POI, game stage and location (they are all under the compass window)
-
+[list]
+[*] feat: Hide enemies POI, game stage and location (they are all under the compass window)
+[*] fix: Use a better and safer approach to hiding the elements.
+[/list]
 
 [size=5]Features[/size]
 [list]

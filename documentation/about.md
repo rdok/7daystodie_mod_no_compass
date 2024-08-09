@@ -12,11 +12,11 @@
 
 ## Changelog
 ### 1.2.2 09-Aug-24
-feat: Use a better and safer approach to hiding the elements.
-fix: Extracted Steel UI compatibility to a separate mod, to eliminate XML warnings.
+- feat: Extracted Steel UI compatibility to a separate mod, to eliminate XML warnings.
+- fix: Use a better and safer approach to hiding the elements.
 ### 1.0.1 SteelUICompatibility - 09-Aug-24
-feat: Use a better and safer approach to hiding the elements.
-feat: Hide enemies POI, game stage and location (they are all under the compass window)
+- feat: Hide enemies POI, game stage and location (they are all under the compass window)
+- fix: Use a better and safer approach to hiding the elements.
 
 
 ## Features
